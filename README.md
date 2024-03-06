@@ -9,7 +9,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 - A passionate (future) AI engineer
-- Playing Sky cotl's at spare time
+- Playing Sky cotl at spare time
 - Currently learning Computer Science by Self
 
 <p align="center">
@@ -55,7 +55,7 @@
 
 <div align="center">
 
-<a href="https://github.com/0xabdulkhalid/">
+<a href="https://github.com/duongphamminhdung/">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=duongphamminhdung&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="duongphamminhdung"/>
 
