@@ -1,6 +1,6 @@
 
-<h1 align="center"><b>Hi , I'm Dpmd </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
+<h1 align="center">Hi 👋, I'm <a href="https://duongphamminhdung.github.io/" target="blank">
+Dpmd</a></h1><!--  -->A
 <p align="center">
   <a href="`https://github.com/DenverCoder1/readme-typing-svg`"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Dương+Phạm+Minh+Dũng...&hearts;++;Self-taught+AI+leanrner,;Computer+Science+Student,;Sky+Cotl+Newbie,;Active+Learner/Highschool+student,;Love+to+learn+new+stuffs..<3"></a>
 </p>
